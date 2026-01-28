@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+ocrmypdf
+pytesseract
+Pillow
+# 注意：請確保你已經安裝了 dots_ocr (pip install -e path/to/dots_ocr)
+# 注意：系統需安裝 Tesseract (apt-get install tesseract-ocr)
